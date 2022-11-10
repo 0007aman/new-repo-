@@ -1,6 +1,3 @@
-ans='y'
-echo "JAI SHREE RAM"
-echo " "
 echo "PLEASE ENTER YOUR DETAILS CORRECTLY TO GET YOUR USER ID AND PASSWORD"
 while test $ans=='y'
 do
